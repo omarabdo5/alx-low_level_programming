@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - generate random numbers to delete -ve or +ve
+ * main - point
  *
- * Return: always (0)
+ * description: generate random numbers to delete -ve or +ve
+ * Return: 0 (success)
  *
 */
 int main(void)
