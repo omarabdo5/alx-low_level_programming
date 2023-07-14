@@ -1,4 +1,4 @@
-#include <studio.0>
+#include <studio.h>
 /**
  * main - Entry point
  *
