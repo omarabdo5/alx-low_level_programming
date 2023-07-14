@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - generate random numbers to delete -ve or +ve */
-
-/* Return: always (0) */
+/* main - generate random numbers to delete -ve or +ve 
+*
+* Return: always (0) 
+*
+*/
 int main(void)
 {
 	int n;
